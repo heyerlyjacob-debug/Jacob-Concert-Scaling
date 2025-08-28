@@ -1,0 +1,5 @@
+{
+  "name": "Concert Pricing Scaler",
+  "description": "An AI-powered web application to calculate and optimize concert ticket pricing based on target revenue goals and premium share. It allows users to generate pricing scenarios, compare them, and export the data.",
+  "requestFramePermissions": []
+}
